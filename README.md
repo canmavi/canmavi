@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Can Mavioğlu</h1><a target="_blank"><img align="right" style="margin-top:15px;" src="https://i.imgur.com/H0GbPZw.png" height="150" style="max-width:100%;"></a>
+<h1 align="center">Hi 👋, I'm Can Mavioğlu</h1><a target="_blank"><img align="right" style="margin-top:15px;" src="https://i.imgur.com/optk0YM.png" height="150" style="max-width:100%;"></a>
 <h3 align="center">Computer Engineer - Software Developer</h3>
 
 I'm a software developer living in Ankara, Turkey, working for YD Yazılım. I love being part of development of web technologies, sometimes I develop mobile and desktop applications. I like open source projects and I think build some personal or some usable projects in my GitHub profile. I love use .NET technologies. 
