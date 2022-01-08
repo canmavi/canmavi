@@ -2,7 +2,7 @@
 <a target="_blank"><img align="right" alt="CM Logo" src="https://i.imgur.com/optk0YM.png" height="120" style="max-width:100%;"></a>
 <h3 align="left">Computer Engineer - Software Developer</h3>
 
-<span>I'm a software developer living in Ankara, Turkey, working for YD Yazılım. I love being part of development of web technologies, sometimes I develop mobile and desktop applications. I like open source projects and I think build some personal or some usable projects in my GitHub profile. I love use .NET technologies.</span>
+<span>I'm a software specialist living in Ankara, Turkey, working for SBI Bilişim. I love being part of development of web technologies, sometimes I develop mobile and desktop applications. I like open source projects and I think build some personal or some usable projects in my GitHub profile. I love use .NET technologies.</span>
 
 - 🔭 I’m currently working on **corporate private web projects and in personal projects on Github.**
 - 🌱 I’m currently learning **PowerBI, ASP.Net Core 5.0, Python and different technologies**
