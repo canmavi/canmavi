@@ -5,7 +5,7 @@
 <span>I'm a software specialist living in Ankara, Turkey, working for SBI Bilişim. I love being part of development of web technologies, sometimes I develop mobile and desktop applications. I like open source projects and I think build some personal or some usable projects in my GitHub profile. I love use .NET technologies.</span>
 
 - 🔭 I’m currently working on **corporate private web projects and in personal projects on Github.**
-- 🌱 I’m currently learning **PowerBI, ASP.Net Core 5.0, Python and different technologies**
+- 🌱 I’m currently learning **PowerBI, ASP.Net Core, Python and different technologies**
 - 📫 How to reach me ⬇️ <br/><br/> [![Linkedin Badge](https://img.shields.io/badge/can&#8259;mavioğlu-blue?style=flat&logo=Linkedin&logoColor=white&link=https://tr.linkedin.com/in/can-mavioğlu/)](https://tr.linkedin.com/in/can-mavioğlu) <a href="https://twitter.com/intent/follow?screen_name=can_mavioglu&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/can_mavioglu?label=%40can_mavioglu&style=social"></a>
 
 <h2><a id="user-content--know--using" class="anchor" aria-hidden="true" href="#-know--using"></a>Know / Using</h2>
